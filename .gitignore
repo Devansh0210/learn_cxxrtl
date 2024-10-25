@@ -1,3 +1,6 @@
 *.o
 *.bin
 .DS_Store
+*dump*.vcd
+dut.cpp
+*dump*
